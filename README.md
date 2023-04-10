@@ -8,3 +8,4 @@ Video summarization using keyframe extraction and visual attention-based transfo
 
 # Dataset used
 Flicker30k dataset
+https://www.kaggle.com/datasets/eeshawn/flickr30k
